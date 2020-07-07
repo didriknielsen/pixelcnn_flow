@@ -2,6 +2,8 @@
 
 Official code for [Closing the Dequantization Gap: PixelCNN as a Single-Layer Flow](https://arxiv.org/abs/2002.02547) by Didrik Nielsen, Ole Winther (2020).
 
+Code will soon be updated to include new experiments!
+
 ## Dependencies
 
 To run the code, we used `python 3.6.8` with the following packages installed:
@@ -10,8 +12,6 @@ To run the code, we used `python 3.6.8` with the following packages installed:
 - `torchvision==0.4.0`
 - `numpy==1.16.4`
 - `ptable==0.9.2`
-- `tqdm==4.31.1`
-- `pip==19.2.2`
 
 
 ## Setup
